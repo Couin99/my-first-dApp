@@ -1,5 +1,4 @@
 # my-first-dApp
-solidity code file
 
 //SPDX-Licence-Identifier: MIT
 pragma solidity ^0.8.1;
